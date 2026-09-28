@@ -1,0 +1,49 @@
+treatment,city,min_cost,avg_cost,max_cost
+Knee Replacement,Pune,180000,220000,280000
+Knee Replacement,Mumbai,210000,260000,340000
+Knee Replacement,Delhi,200000,250000,320000
+Knee Replacement,Bengaluru,190000,240000,300000
+Knee Replacement,Hyderabad,175000,215000,270000
+Cataract Surgery,Pune,25000,35000,50000
+Cataract Surgery,Mumbai,30000,45000,65000
+Cataract Surgery,Delhi,28000,40000,60000
+Cataract Surgery,Bengaluru,26000,38000,55000
+Cataract Surgery,Chennai,24000,34000,48000
+Appendectomy,Pune,45000,65000,90000
+Appendectomy,Mumbai,55000,75000,110000
+Appendectomy,Delhi,50000,70000,100000
+Appendectomy,Bengaluru,48000,68000,95000
+Gallbladder Removal (Cholecystectomy),Pune,55000,75000,105000
+Gallbladder Removal (Cholecystectomy),Mumbai,65000,90000,130000
+Gallbladder Removal (Cholecystectomy),Delhi,60000,82000,120000
+Gallbladder Removal (Cholecystectomy),Bengaluru,58000,78000,115000
+Hernia Repair,Pune,40000,55000,80000
+Hernia Repair,Mumbai,50000,70000,95000
+Hernia Repair,Delhi,45000,62000,88000
+Hernia Repair,Hyderabad,38000,52000,75000
+Angioplasty,Pune,180000,230000,310000
+Angioplasty,Mumbai,220000,280000,380000
+Angioplasty,Delhi,200000,260000,350000
+Angioplasty,Bengaluru,190000,245000,330000
+Normal Delivery,Pune,35000,48000,65000
+Normal Delivery,Mumbai,45000,60000,85000
+Normal Delivery,Delhi,40000,55000,75000
+Normal Delivery,Bengaluru,38000,50000,70000
+C-Section,Pune,55000,72000,95000
+C-Section,Mumbai,70000,90000,125000
+C-Section,Delhi,65000,82000,110000
+C-Section,Bengaluru,60000,78000,105000
+Dialysis,Pune,2000,2800,4000
+Dialysis,Mumbai,2500,3500,5000
+Dialysis,Delhi,2200,3200,4500
+Dialysis,Bengaluru,2100,3000,4200
+Hip Replacement,Pune,190000,240000,310000
+Hip Replacement,Mumbai,230000,290000,390000
+Hip Replacement,Delhi,210000,270000,360000
+Kidney Stone Removal (PCNL),Pune,50000,68000,95000
+Kidney Stone Removal (PCNL),Mumbai,60000,80000,115000
+Kidney Stone Removal (PCNL),Delhi,55000,72000,102000
+Bypass Surgery (CABG),Pune,280000,360000,480000
+Bypass Surgery (CABG),Mumbai,340000,440000,580000
+Bypass Surgery (CABG),Delhi,310000,400000,520000
+Bypass Surgery (CABG),Bengaluru,300000,380000,500000
