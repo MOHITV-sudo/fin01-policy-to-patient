@@ -166,7 +166,7 @@ The test suite validates all required business scenarios:
 
 To run tests:
 ```bash
-pytest fin01/backend/tests/test_calculator.py -v
+pytest backend/tests/test_calculator.py -v
 ```
 
 ---
@@ -208,13 +208,13 @@ Follow this step-by-step walkthrough for an end-to-end demo:
 ## 🚀 Deployment Guide
 
 ### Backend on Render / Railway
-1. **Root Directory**: `fin01/backend`
+1. **Root Directory**: backend
 2. **Build Command**: `pip install -r requirements.txt` (or `pip install pymupdf fastapi uvicorn python-multipart groq sentence-transformers pydantic pandas numpy scikit-learn`)
 3. **Start Command**: `uvicorn main:app --host 0.0.0.0 --port $PORT`
 4. **Environment Variables**: Add `GROQ_API_KEY`.
 
 ### Frontend on Vercel
-1. **Root Directory**: `fin01/frontend`
+1. **Root Directory**: frontend
 2. **Framework Preset**: `Vite`
 3. **Build Command**: `npm run build`
 4. **Output Directory**: `dist`
