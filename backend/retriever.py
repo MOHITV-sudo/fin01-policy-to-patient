@@ -26,7 +26,7 @@ class PolicyIndex:
     def _build_index(self):
         if not self.chunks:
             return
-
+        self._build_tfidf()
         # Attempt SentenceTransformer
         try:
             from sentence_transformers import SentenceTransformer
